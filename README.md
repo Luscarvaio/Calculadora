@@ -35,7 +35,7 @@ Você pode visualizar o projeto diretamente no GitHub Pages: [(https://github.co
 
 3. Clique nos botões numéricos para inserir números.
 
-   Use os botões de operação (+, -, *, /) para selecionar a operação desejada.
+   Use os botões de operação (+ , - , x , ÷ ) para selecionar a operação desejada.
    
    Pressione = para ver o resultado.
    
