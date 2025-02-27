@@ -22,15 +22,18 @@ Você pode visualizar o projeto diretamente no GitHub Pages: [(https://github.co
    cd Calculadora
 
 2. Abra o arquivo index.html no seu navegador:
-   ```bash
+   
    -No macOS:
-      open index.html  
-     
+   
+         open index.html
+        
    -No Windows:
-      start index.html 
+   
+         start index.html 
 
    -No Linux:
-      xdg-open index.html 
+   
+         xdg-open index.html 
   
 
 4. Clique nos botões numéricos para inserir números.
