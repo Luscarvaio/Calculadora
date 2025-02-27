@@ -22,10 +22,15 @@ Como Rodar o Projeto?
    cd Calculadora
 
 2. Abra o arquivo index.html no seu navegador:
- 
-  open index.html  # No macOS
-  start index.html # No Windows
-  xdg-open index.html # No Linux
+  # No macOS
+  open index.html  
+  
+  # No Windows
+  start index.html 
+
+  # No Linux
+  xdg-open index.html 
+  
 
 3. Clique nos botões numéricos para inserir números.
 
