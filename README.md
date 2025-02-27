@@ -4,8 +4,8 @@ Uma calculadora simples e responsiva desenvolvida com HTML5, CSS3 e JavaScript. 
 
 Funcionalidades
 
-- Operações Básicas**: Realize operações de adição, subtração, multiplicação e divisão.
-- Limpar Tela**: Botão para limpar a tela e reiniciar os cálculos.
+- Operações Básicas: Realize operações de adição, subtração, multiplicação e divisão.
+- Limpar Tela: Botão para limpar a tela e reiniciar os cálculos.
 - Apagar Número a Número: Botão para apagar um número de cada vez.
 - Cálculos em Tempo Real**: Resultados são exibidos conforme os números e operadores são inseridos.
 
