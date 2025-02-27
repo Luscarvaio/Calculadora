@@ -13,7 +13,7 @@ Funcionalidades
 
 Você pode visualizar o projeto diretamente no GitHub Pages: [(https://github.com/Luscarvaio/Calculadora)]
 
-Como Rodar o Projeto?
+## Como Rodar o Projeto?
 
 1. Clone o repositório:
 
