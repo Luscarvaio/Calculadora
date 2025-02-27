@@ -35,16 +35,16 @@ Você pode visualizar o projeto diretamente no GitHub Pages: [(https://github.co
 
 3. Clique nos botões numéricos para inserir números.
 
-Use os botões de operação (+, -, *, /) para selecionar a operação desejada.
-
-Pressione = para ver o resultado.
-
-Use o botão C para limpar a tela.
+   Use os botões de operação (+, -, *, /) para selecionar a operação desejada.
+   
+   Pressione = para ver o resultado.
+   
+   Use o botão C para limpar a tela.
 
 Contribuição
 
-Sinta-se à vontade para abrir issues ou enviar pull requests para melhoria do projeto. Todas as contribuções são bem vindas!
-Use o quanto precisar!
+   Sinta-se à vontade para abrir issues ou enviar pull requests para melhoria do projeto. Todas as contribuções são bem vindas!
+   Use o quanto precisar!
 
 
 
