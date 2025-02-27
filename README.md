@@ -22,18 +22,18 @@ Você pode visualizar o projeto diretamente no GitHub Pages: [(https://github.co
    cd Calculadora
 
 2. Abra o arquivo index.html no seu navegador:
-
+   ```bash
    -No macOS:
       open index.html  
      
    -No Windows:
       start index.html 
-   
+
    -No Linux:
       xdg-open index.html 
   
 
-3. Clique nos botões numéricos para inserir números.
+4. Clique nos botões numéricos para inserir números.
 
    Use os botões de operação (+ , - , x , ÷ ) para selecionar a operação desejada.
    
