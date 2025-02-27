@@ -22,13 +22,13 @@ Você pode visualizar o projeto diretamente no GitHub Pages: [(https://github.co
    cd Calculadora
 
 2. Abra o arquivo index.html no seu navegador:
-  # No macOS
+   No macOS:
   open index.html  
   
-  # No Windows
+  No Windows:
   start index.html 
 
-  # No Linux
+  No Linux:
   xdg-open index.html 
   
 
