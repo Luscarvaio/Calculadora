@@ -1,6 +1,6 @@
 Calculadora Simples
 
-   Uma calculadora simples e responsiva desenvolvida com HTML5, CSS3 e JavaScript. Esse projeto permite realizar operações básicas como adição, subtração, multiplicação e divisão.
+   Uma calculadora simples e responsiva, desenvolvida com HTML5, CSS3 e JavaScript. Esse projeto permite realizar operações básicas como adição, subtração, multiplicação e divisão.
 
 Funcionalidades
 
