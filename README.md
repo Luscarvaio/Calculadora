@@ -23,20 +23,22 @@ Você pode visualizar o projeto diretamente no GitHub Pages: [(https://github.co
 
 2. Abra o arquivo index.html no seu navegador:
 
--No macOS:
-open index.html  
-  
--No Windows:
-start index.html 
-
--No Linux:
-xdg-open index.html 
+   -No macOS:
+      open index.html  
+     
+   -No Windows:
+      start index.html 
+   
+   -No Linux:
+      xdg-open index.html 
   
 
 3. Clique nos botões numéricos para inserir números.
 
 Use os botões de operação (+, -, *, /) para selecionar a operação desejada.
+
 Pressione = para ver o resultado.
+
 Use o botão C para limpar a tela.
 
 Contribuição
